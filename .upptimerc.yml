@@ -41,7 +41,6 @@ status-website:
   name: GBIF Iberian service status
   introTitle: "Global Biodiversity Information Facility - Iberian Peninsula"
   introMessage: Live status page of GBIF Iberian services
-  theme: ocean
   navbar:
     - title: Status
       href: /
