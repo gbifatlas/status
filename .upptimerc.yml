@@ -8,8 +8,21 @@ sites:
   - name: Data - GBIF Portugal
     url: https://dados.gbif.pt/
     icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/gbifpt92_1.png
-  - name: Toolkit - GBIF Spain
-    url: https://toolkit.gbif.es/
+  - name: GBIF Spain
+    url: https://www.gbif.es/
+    icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
+  - name: Data - GBIF Spain
+    url: https://datos.gbif.es/
+    icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
+  - name: IPT - GBIF Spain
+    url: https://ipt.gbif.es/
+    icon: https://ipt.gbif.es/images/gbif-logo-L.svg
+  - name: eLearning - GBIF Spain
+    url: https://elearning.gbif.es/
+    icon: https://elearning.gbif.es/web/css/themes/GBIF/images/header-logo.png
+  - name: Records - GBIF Spain
+    url: https://registros.gbif.es/
+    icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
 
 status-website:
   #cname: demo.upptime.js.org
