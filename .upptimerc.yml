@@ -36,7 +36,7 @@ sites:
 
 status-website:
   #cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GBIF Iberian service status
   introTitle: "Global Biodiversity Information Facility - Iberian Peninsula"
