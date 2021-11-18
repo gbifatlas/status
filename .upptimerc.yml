@@ -4,10 +4,20 @@ repo: status
 sites:
   - name: GBIF Portugal
     url: https://www.gbif.pt/
-    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/gbifpt92_1.png
+    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png
   - name: Data - GBIF Portugal
     url: https://dados.gbif.pt/
-    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/gbifpt92_1.png
+    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png
+  - name: Regions - GBIF Portugal
+    url: https://regioes.gbif.pt/
+    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png
+  - name: Metadata - GBIF Portugal
+    url: https://metadados.gbif.pt/
+    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png
+  - name: Images - GBIF Portugal
+    url: https://imagens.gbif.pt/
+    icon: https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png
+
   - name: GBIF Spain
     url: https://www.gbif.es/
     icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
