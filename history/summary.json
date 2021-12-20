@@ -24,9 +24,9 @@
     "url": "https://dados.gbif.pt/",
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "data-gbif-portugal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 647,
     "timeMonth": 709,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "Regions - GBIF Portugal",
     "url": "https://regioes.gbif.pt/",
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "regions-gbif-portugal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +55,18 @@
     "timeWeek": 651,
     "timeMonth": 738,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "Metadata - GBIF Portugal",
     "url": "https://metadados.gbif.pt/",
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "metadata-gbif-portugal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +75,18 @@
     "timeWeek": 804,
     "timeMonth": 891,
     "timeYear": 905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "Images - GBIF Portugal",
     "url": "https://imagens.gbif.pt/",
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "images-gbif-portugal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
@@ -90,6 +96,7 @@
     "timeMonth": 857,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-12-14": 34
     }
   },
@@ -176,15 +183,15 @@
     "icon": "https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg",
     "slug": "records-gbif-spain",
     "status": "up",
-    "uptime": "93.13%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "92.90%",
-    "uptimeYear": "93.13%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "93.22%",
     "time": 1167,
     "timeDay": 1466,
     "timeWeek": 1312,
-    "timeMonth": 1177,
+    "timeMonth": 1235,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2021-12-14": 15,
