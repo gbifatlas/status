@@ -35,7 +35,6 @@ sites:
     icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
 
 status-website:
-  #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://images.ctfassets.net/uo17ejk9rkwj/5s7MN9pIKVTulGxIeZio8H/0836922c7764c7ff751d5ae777e16286/GBIF-2015-full-stacked.svg
   name: GBIF Iberian service status
