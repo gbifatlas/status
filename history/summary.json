@@ -191,9 +191,9 @@
     "url": "https://ipt.gbif.es/",
     "icon": "https://ipt.gbif.es/images/gbif-logo-L.svg",
     "slug": "ipt-gbif-spain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -203,6 +203,7 @@
     "timeMonth": 1360,
     "timeYear": 1447,
     "dailyMinutesDown": {
+      "2022-11-10": 0,
       "2022-10-29": 19,
       "2022-10-06": 56,
       "2021-12-15": 39
