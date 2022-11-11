@@ -214,19 +214,19 @@
     "url": "https://elearning.gbif.es/",
     "icon": "https://elearning.gbif.es/web/css/themes/GBIF/images/header-logo.png",
     "slug": "e-learning-gbif-spain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 996,
-    "timeDay": 1598,
-    "timeWeek": 1365,
-    "timeMonth": 1258,
-    "timeYear": 996,
+    "time": 997,
+    "timeDay": 1593,
+    "timeWeek": 1389,
+    "timeMonth": 1268,
+    "timeYear": 997,
     "dailyMinutesDown": {
-      "2022-11-11": 0
+      "2022-11-11": 11
     }
   },
   {
