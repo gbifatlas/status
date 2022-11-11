@@ -5,11 +5,11 @@
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "gbif-portugal",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 2197,
     "timeDay": 1792,
     "timeWeek": 1991,
@@ -214,9 +214,9 @@
     "url": "https://elearning.gbif.es/",
     "icon": "https://elearning.gbif.es/web/css/themes/GBIF/images/header-logo.png",
     "slug": "e-learning-gbif-spain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -225,7 +225,9 @@
     "timeWeek": 1365,
     "timeMonth": 1258,
     "timeYear": 996,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 0
+    }
   },
   {
     "name": "Records - GBIF Spain",
