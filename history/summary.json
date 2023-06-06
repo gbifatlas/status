@@ -259,9 +259,9 @@
     "slug": "gbif-spain",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 979,
     "timeDay": 747,
@@ -269,7 +269,6 @@
     "timeMonth": 863,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2023-06-05": 6,
       "2023-01-25": 18,
       "2022-07-13": 24
     }
@@ -314,9 +313,9 @@
     "slug": "ipt-gbif-spain",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1256,
     "timeDay": 638,
@@ -324,7 +323,6 @@
     "timeMonth": 614,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2023-06-05": 5,
       "2023-01-25": 17,
       "2022-11-10": 19,
       "2022-10-29": 19,
@@ -338,9 +336,9 @@
     "slug": "e-learning-gbif-spain",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2111,
     "timeDay": 2209,
@@ -348,7 +346,6 @@
     "timeMonth": 3757,
     "timeYear": 2452,
     "dailyMinutesDown": {
-      "2023-06-05": 5,
       "2023-06-01": 17,
       "2023-05-02": 25
     }
