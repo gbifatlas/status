@@ -5,16 +5,16 @@
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "gbif-portugal",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.30%",
-    "uptimeYear": "96.92%",
-    "time": 2246,
-    "timeDay": 1899,
-    "timeWeek": 2467,
-    "timeMonth": 2248,
-    "timeYear": 2227,
+    "uptimeYear": "97.20%",
+    "time": 2245,
+    "timeDay": 1568,
+    "timeWeek": 2357,
+    "timeMonth": 2234,
+    "timeYear": 2225,
     "dailyMinutesDown": {
       "2023-12-16": 717,
       "2023-12-15": 3,
@@ -34,8 +34,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
-      "2023-01-03": 1440,
-      "2023-01-02": 1440
+      "2023-01-03": 1440
     }
   },
   {
@@ -44,16 +43,16 @@
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "data-gbif-portugal",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.28%",
-    "time": 933,
-    "timeDay": 1129,
-    "timeWeek": 884,
-    "timeMonth": 860,
-    "timeYear": 939,
+    "uptimeYear": "97.55%",
+    "time": 932,
+    "timeDay": 731,
+    "timeWeek": 849,
+    "timeMonth": 857,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2023-11-08": 267,
       "2023-01-10": 1113,
@@ -63,8 +62,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
-      "2023-01-03": 1440,
-      "2023-01-02": 1440
+      "2023-01-03": 1440
     }
   },
   {
@@ -77,12 +75,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.27%",
-    "time": 957,
-    "timeDay": 998,
-    "timeWeek": 886,
-    "timeMonth": 853,
-    "timeYear": 963,
+    "uptimeYear": "97.55%",
+    "time": 956,
+    "timeDay": 731,
+    "timeWeek": 843,
+    "timeMonth": 851,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2023-11-08": 300,
       "2023-01-10": 1113,
@@ -92,8 +90,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
-      "2023-01-03": 1440,
-      "2023-01-02": 1440
+      "2023-01-03": 1440
     }
   },
   {
@@ -106,11 +103,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.56%",
     "time": 1222,
-    "timeDay": 1222,
-    "timeWeek": 1083,
-    "timeMonth": 1077,
+    "timeDay": 875,
+    "timeWeek": 1034,
+    "timeMonth": 1075,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2023-11-08": 237,
@@ -121,8 +118,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
-      "2023-01-03": 1440,
-      "2023-01-02": 1440
+      "2023-01-03": 1440
     }
   },
   {
@@ -131,15 +127,15 @@
     "icon": "https://www.gbif.pt/sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png",
     "slug": "images-gbif-portugal",
     "status": "up",
-    "uptime": "96.07%",
+    "uptime": "96.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.56%",
     "time": 1123,
-    "timeDay": 1173,
-    "timeWeek": 1063,
-    "timeMonth": 1048,
+    "timeDay": 970,
+    "timeWeek": 1011,
+    "timeMonth": 1051,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2023-11-08": 233,
@@ -150,8 +146,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
-      "2023-01-03": 1440,
-      "2023-01-02": 1440
+      "2023-01-03": 1440
     }
   },
   {
@@ -165,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 903,
-    "timeDay": 759,
-    "timeWeek": 687,
-    "timeMonth": 737,
-    "timeYear": 829,
+    "time": 902,
+    "timeDay": 650,
+    "timeWeek": 675,
+    "timeMonth": 739,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2023-11-01": 111,
       "2023-09-18": 312,
@@ -189,8 +184,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 639,
-    "timeDay": 642,
-    "timeWeek": 653,
+    "timeDay": 531,
+    "timeWeek": 614,
     "timeMonth": 591,
     "timeYear": 636,
     "dailyMinutesDown": {
@@ -216,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 926,
-    "timeDay": 635,
-    "timeWeek": 596,
-    "timeMonth": 591,
-    "timeYear": 729,
+    "time": 925,
+    "timeDay": 694,
+    "timeWeek": 606,
+    "timeMonth": 597,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2023-11-01": 111,
       "2023-01-25": 17
@@ -237,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2408,
-    "timeDay": 902,
-    "timeWeek": 948,
-    "timeMonth": 1001,
-    "timeYear": 2678,
+    "time": 2407,
+    "timeDay": 797,
+    "timeWeek": 902,
+    "timeMonth": 986,
+    "timeYear": 2672,
     "dailyMinutesDown": {
       "2023-11-01": 98,
       "2023-06-01": 17,
@@ -259,11 +254,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.21%",
-    "time": 1482,
-    "timeDay": 1648,
-    "timeWeek": 1904,
-    "timeMonth": 1682,
-    "timeYear": 1506,
+    "time": 1481,
+    "timeDay": 1327,
+    "timeWeek": 1862,
+    "timeMonth": 1687,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2023-12-14": 16,
       "2023-11-27": 644,
