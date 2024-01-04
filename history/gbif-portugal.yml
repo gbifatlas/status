@@ -1,7 +1,7 @@
 url: https://www.gbif.pt/
-status: down
-code: 503
-responseTime: 7082
-lastUpdated: 2024-01-04T03:48:57.870Z
+status: up
+code: 200
+responseTime: 2131
+lastUpdated: 2024-01-04T04:08:04.585Z
 startTime: 2021-11-18T13:29:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
