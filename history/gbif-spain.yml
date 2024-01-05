@@ -1,7 +1,7 @@
 url: https://www.gbif.es/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T11:21:56.761Z
+status: up
+code: 200
+responseTime: 893
+lastUpdated: 2024-01-05T11:27:38.166Z
 startTime: 2021-11-18T13:39:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
