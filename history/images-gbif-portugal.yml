@@ -1,7 +1,7 @@
 url: https://imagens.gbif.pt/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-05T19:24:03.027Z
+status: up
+code: 200
+responseTime: 1259
+lastUpdated: 2024-11-05T19:28:18.254Z
 startTime: 2021-11-18T14:06:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
