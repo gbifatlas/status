@@ -140,18 +140,20 @@
     "url": "https://www.gbif.es/",
     "icon": "https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg",
     "slug": "gbif-spain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1204,
-    "timeDay": 1944,
-    "timeWeek": 1758,
-    "timeMonth": 2288,
+    "timeDay": 1665,
+    "timeWeek": 1711,
+    "timeMonth": 2259,
     "timeYear": 1360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 1
+    }
   },
   {
     "name": "Data - GBIF Spain",
@@ -190,18 +192,20 @@
     "url": "https://ipt.gbif.es/",
     "icon": "https://ipt.gbif.es/images/gbif-logo-L.svg",
     "slug": "ipt-gbif-spain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 681,
-    "timeDay": 901,
-    "timeWeek": 699,
-    "timeMonth": 848,
-    "timeYear": 686,
-    "dailyMinutesDown": {}
+    "time": 695,
+    "timeDay": 4303,
+    "timeWeek": 1574,
+    "timeMonth": 1069,
+    "timeYear": 705,
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   },
   {
     "name": "eLearning - GBIF Spain",
