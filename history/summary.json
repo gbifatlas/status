@@ -140,19 +140,19 @@
     "url": "https://www.gbif.es/",
     "icon": "https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg",
     "slug": "gbif-spain",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1204,
-    "timeDay": 1665,
-    "timeWeek": 1711,
-    "timeMonth": 2259,
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1206,
+    "timeDay": 1608,
+    "timeWeek": 1687,
+    "timeMonth": 2235,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2024-12-04": 1
+      "2024-12-04": 33
     }
   },
   {
@@ -192,19 +192,19 @@
     "url": "https://ipt.gbif.es/",
     "icon": "https://ipt.gbif.es/images/gbif-logo-L.svg",
     "slug": "ipt-gbif-spain",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 695,
-    "timeDay": 4303,
-    "timeWeek": 1574,
-    "timeMonth": 1069,
-    "timeYear": 705,
+    "timeDay": 3133,
+    "timeWeek": 1488,
+    "timeMonth": 1061,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2024-12-04": 0
+      "2024-12-04": 32
     }
   },
   {
